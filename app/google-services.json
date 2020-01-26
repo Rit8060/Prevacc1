@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722182414769",
+    "firebase_url": "https://acci-be9a3.firebaseio.com",
+    "project_id": "acci-be9a3",
+    "storage_bucket": "acci-be9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722182414769:android:1bb67a0f86886ab1bc5d90",
+        "android_client_info": {
+          "package_name": "com.ctc.accihelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722182414769-5fkh35vvptggre72odq471975fmkit7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ctc.accihelp",
+            "certificate_hash": "857c6281acf201c7b11169214c3c5c75c62120d4"
+          }
+        },
+        {
+          "client_id": "722182414769-cg489rfug2b8i3lvhptcj2st65n1pset.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV1Kud7Q0Tkvsbto4KFqGQWn-d0Nlx2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722182414769-cg489rfug2b8i3lvhptcj2st65n1pset.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
